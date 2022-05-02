@@ -18,7 +18,6 @@ If you are a Percona customer with a Percona Customer Portal account, you also g
 ​To see the complete list of available checks, see the [Advisor Checks for PMM](https://docs.percona.com/percona-platform/checks.html) topic in the Percona Platform documentation.  
 
 ## How to enable
-
 By default, the **Advisors** option is disabled. To enable it, go to <i class="uil uil-cog"></i> **Configuration <i class="uil uil-setting"></i> > Settings > Advanced Settings**. 
 
 As soon as you enable Advisors and Telemetry, PMM Server starts downloading the checks available for your Percona Account and runs them automatically in the background. 
